@@ -8,3 +8,5 @@ Hieronder de demovideo over het project:
 
   <kbd>
 </kbd>
+
+[<img src="https://github.com/david1234vo/ESAT2B2_computer_vision/blob/main/Demovideos/demovideo_thumbnail.png" target="_blank">](https://bit.ly/381Iogo)
